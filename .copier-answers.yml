@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v1.4.6
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: tcabrera@andrew.cmu.edu
+author_name: Tomás Cabrera
+custom_install: false
+package_name: thefirstt
+project_license: MIT
+project_name: thefirstt
+project_organization: tomas-cabrera
